@@ -11,10 +11,6 @@
 <!-- Optional GitHub stats section -->
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit052610&show_icons=true&theme=radical)
 
-# 💫 About Me:
-Hi, I'm Harshit! 👋<br>🎓 3rd year B.Tech student specializing in Artificial Intelligence & Machine Learning at VIT-AP University<br>🤖 Exploring the world of AI agents, intelligent systems, and real-world ML projects<br>💡 Passionate about building projects that blend theory and practice—from classic machine learning pipelines to deep learning applications<br>📈 Currently working on improving my skills in data science, generative AI, and reinforcement learning<br>🌱 Always learning and sharing my journey in tech and innovation
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_harshit_2610) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/N HARSHIT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshit.23bce8703@vitapstuent.ac.in) 
 
